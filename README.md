@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Next.js, TensorFlow & DevOps**
 - 💬 Ask me about **Flutter, MERN Stack, Machine Learning**
 - 🌐 Visit my portfolio: [danialsaleem.online](http://www.danialsaleem.online)
-- 📫 How to reach me: **danialsaleemk@gmail.com**
+- 📫 How to reach me: **danialsaleemdgk1@gmail.com**
 - ⚡ Fun fact: I believe coffee ☕ and clean code 🧠 are the ultimate combo!
 
 ---
